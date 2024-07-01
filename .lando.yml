@@ -1,0 +1,4 @@
+name: dta
+recipe: drupal10
+config:
+  webroot: web

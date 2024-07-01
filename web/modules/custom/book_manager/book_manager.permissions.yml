@@ -1,0 +1,19 @@
+create book content:
+  title: 'Create book content'
+  description: 'Allow users to create new book content.'
+  restrict access: TRUE
+
+edit book content:
+  title: 'Edit book content'
+  description: 'Allow users to edit existing book content.'
+  restrict access: TRUE
+
+delete book content:
+  title: 'Delete book content'
+  description: 'Allow users to delete book content.'
+  restrict access: TRUE
+
+view book content:
+  title: 'View book content'
+  description: 'Allow users to view book content.'
+  restrict access: TRUE

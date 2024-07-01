@@ -1,0 +1,15 @@
+book_manager.book_add:
+  title: 'Add Book'
+  route_name: book_manager.book_add
+  parent: system.admin
+  weight: 5
+
+book_manager.book_list:
+  title: 'List Books'
+  route_name: book_manager.book_list
+  parent: system.admin
+  weight: 10
+  description: 'View and manage book content'
+  options:
+    _admin_route: TRUE
+    _permission: 'view book content'

@@ -1,0 +1,7 @@
+name: 'Book Manager'
+type: module
+description: 'Provides CRUD operations for the Book content type.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - drupal:node
